@@ -20,11 +20,22 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Person
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Person.ToListAsync());
+            if (_context.Person == null)
+            {
+                return Problem("Entity set 'MvcMovieContext.Movie' is null.");
+            }
         }
+        var Person = from m in_context_Person
+        select m;
 
+        if (!String.IsNullOrEmpty(searchString))
+        {
+            Person = Person.Where(s => s.Title!.ToUpper().Contains(searchString.Toupper()));
+        }
+        return View(await person.ToListAToListAsync());
+    }
         // GET: Person/Details/5
         public async Task<IActionResult> Details(string id)
         {

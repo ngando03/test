@@ -276,3 +276,15 @@ C:\PTPMQL_200\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.
 C:\PTPMQL_200\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\PTPMQL_200\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
 C:\PTPMQL_200\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+F:\test-git\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+F:\test-git\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
